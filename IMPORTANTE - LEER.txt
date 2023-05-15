@@ -1,0 +1,11 @@
+En esta carpeta se encuentran 2 layouts en HTML diferentes.
+
+Por un lado index.html cumple la tarea de replicar juegacobra.com como se especifica en la Parte 1 del documento de la Development Test.
+
+Por otro lado, el archivo index-alternativo.html cumple la tarea de tener un layout diferente al original. En el documento de la Development Test, posterior a la parte 2 se mencionan:
+- Instrucciones de la parte 1 nuevamente (Esta vez en Español)
+- Titulos y Copy para un landing de cobra (Diferentes a los de la página original)
+
+Debido a que no tenía del todo claro si debía replicar la página tal cual la original, o si debía hacerlo especificamente con esas secciones, imágenes y copy, decidí realizar ambas y enviarlas.
+
+NOTA: Las imágenes que no fueron suministradas en el archivo public.zip pero forman parte de la interfaz, fueron descargadas directamente desde la página original juegacobra.com.
